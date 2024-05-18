@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AnimalWellTools": {
+      "commandName": "Project",
+      "commandLineArgs": "--i \"C:/Users/errai/Downloads/AnimalWellAtlasData - AnimalWellAtlasData.csv\" --a \"C:/Users/errai/Downloads/assets/255.png\""
+    }
+  }
+}
